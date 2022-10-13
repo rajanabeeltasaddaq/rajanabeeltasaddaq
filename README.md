@@ -1,5 +1,9 @@
-[![MasterHead](https://super-news.info/it/wp-content/uploads/sites/9/2021/08/Blockchain-cose-come-funziona-e-quali-applicazioni.jpg)]
-<h1 align="center">Hi 👋, I'm Nabeel Ahmed</h1>
+![MasterHead](https://super-news.info/it/wp-content/uploads/sites/9/2021/08/Blockchain-cose-come-funziona-e-quali-applicazioni.jpg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Nabeel+Ahmed....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate blockchain developer from Pakistan</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1774872/screenshots/5477893/tachyon-2-dr.gif">
